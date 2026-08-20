@@ -1,11 +1,11 @@
 ---
 layout: post 
-title: Portfolio Home 
+title: I'm Leon Fu
 hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Leon Fu!
 
 ### Development Environment
 
